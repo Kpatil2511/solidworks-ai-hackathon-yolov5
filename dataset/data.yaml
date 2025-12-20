@@ -1,0 +1,9 @@
+# Absolute paths
+train: C:/Users/patil/OneDrive/Desktop/lets win first hackathon/dataset/images/train
+val:   C:/Users/patil/OneDrive/Desktop/lets win first hackathon/dataset/images/val
+
+# Number of classes
+nc: 4
+
+# Class names
+names: ['bolt', 'locatingpin', 'nut', 'washer']
