@@ -171,6 +171,7 @@ Each row contains the \*\*exact count of detected parts per image\*\*.
 \## 👤 Author
 
 \*\*Kanhaiya Patil\*\*  
+\*\*Jatin Patil\*\*
 
 JSPM's Rajarshi Shahu College Of Engineering,Pune
 
